@@ -65,3 +65,25 @@ This project demonstrates strong understanding of **Core Java**, **Object-Orient
 ---
 
 ## 📂 Project Structure
+```
+MYPROJECT
+│
+├── JAVA PROJECTS
+│   │
+│   ├── src
+│   │   ├── Main.java
+│   │   ├── Bank.java
+│   │   ├── Login.java
+│   │   └── DatabaseConnection.java
+│   │
+│   ├── bin
+│   │   ├── Main.class
+│   │   ├── Bank.class
+│   │   ├── Login.class
+│   │   └── DatabaseConnection.class
+│
+├── Database
+│   └── DATABASE FILE.sql
+│
+└── README.md
+```
