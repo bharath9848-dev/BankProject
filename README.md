@@ -1,10 +1,15 @@
 # 🏦 Bank Management System
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-Database-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen?style=for-the-badge)
+
 ---
 
 ## 📌 Overview
-The **Bank Management System** is a Java application that performs essential banking operations such as account handling, transactions, and balance management.  
-This project demonstrates strong understanding of **core Java** and **Object-Oriented Programming (OOP)** and **database connectivity using JDBC**.
+The **Bank Management System** is a Java-based application designed to perform core banking operations such as account management, transactions, and balance handling.  
+This project demonstrates strong understanding of **Core Java**, **Object-Oriented Programming (OOP)**, and **database connectivity using JDBC with MySQL**.
 
 ---
 
@@ -27,10 +32,49 @@ This project demonstrates strong understanding of **core Java** and **Object-Ori
 | 🔌 JDBC | Database connectivity |
 | 💻 IDE | VS Code / Eclipse |
 
+
+
 ---
 
-## 📂 Project Structure# BankProject
+## ⚙️ How to Run
+1. Install **Java (JDK 8 or above)**  
+2. Install and start **MySQL Server**  
+3. Import the provided SQL file  
+4. Update database credentials in `DatabaseConnection.java`  
+5. Compile and run:
 
+
+---
+
+## 🎯 Key Concepts Used
+- Object-Oriented Programming (OOP)  
+- JDBC (Java Database Connectivity)  
+- Exception Handling  
+- Database Management  
+
+---
+
+## 📸 Screenshots
+> *(Add your project screenshots here for better presentation)*
+
+---
+
+## 🚀 Future Enhancements
+- Add GUI (Java Swing / JavaFX)  
+- Improve security features  
+- Add transaction history UI  
+- Multi-user support  
+
+---
 
 ## 👨‍💻 Author
-**Gaddam Bharath**
+**Gaddam Bharath**  
+📧 gbharath9848@gmail.com  
+
+---
+
+## ⭐ Support
+If you like this project, give it a ⭐ on GitHub!
+---
+
+## 📂 Project Structure
