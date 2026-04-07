@@ -3,7 +3,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-Database-blue?style=for-the-badge)
-![Status](https://img.shields.io/badge/Project-Completed-brightgreen?style=for-the-badge)
+
 
 ---
 
@@ -54,11 +54,6 @@ This project demonstrates strong understanding of **Core Java**, **Object-Orient
 
 ---
 
-## 📸 Screenshots
-> *(Add your project screenshots here for better presentation)*
-
----
-
 ## 🚀 Future Enhancements
 - Add GUI (Java Swing / JavaFX)  
 - Improve security features  
@@ -78,3 +73,23 @@ If you like this project, give it a ⭐ on GitHub!
 ---
 
 ## 📂 Project Structure
+MYPROJECT
+│
+├── JAVA PROJECTS
+│   │
+│   ├── src
+│   │   ├── Main.java
+│   │   ├── Bank.java
+│   │   ├── Login.java
+│   │   └── DatabaseConnection.java
+│   │
+│   ├── bin
+│   │   ├── Main.class
+│   │   ├── Bank.class
+│   │   ├── Login.class
+│   │   └── DatabaseConnection.class
+│
+├── Database
+│   └── DATABASE FILE.sql
+│
+└── README.md
