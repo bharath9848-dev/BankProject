@@ -4,7 +4,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-Database-blue?style=for-the-badge)
 
-
 ---
 
 ## 📌 Overview
@@ -32,8 +31,6 @@ This project demonstrates strong understanding of **Core Java**, **Object-Orient
 | 🔌 JDBC | Database connectivity |
 | 💻 IDE | VS Code / Eclipse |
 
-
-
 ---
 
 ## ⚙️ How to Run
@@ -42,7 +39,6 @@ This project demonstrates strong understanding of **Core Java**, **Object-Orient
 3. Import the provided SQL file  
 4. Update database credentials in `DatabaseConnection.java`  
 5. Compile and run:
-
 
 ---
 
@@ -66,10 +62,6 @@ This project demonstrates strong understanding of **Core Java**, **Object-Orient
 **Gaddam Bharath**  
 📧 gbharath9848@gmail.com  
 
----
-
-## ⭐ Support
-If you like this project, give it a ⭐ on GitHub!
 ---
 
 ## 📂 Project Structure
