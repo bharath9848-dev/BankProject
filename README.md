@@ -65,6 +65,3 @@ This project demonstrates strong understanding of **Core Java**, **Object-Orient
 ---
 
 ## 📂 Project Structure
-
-│
-└── README.md
